@@ -1,0 +1,448 @@
+Uri: http://sportsfest.glslaw.co.in/
+File Name: c:\Downloaded Web Sites\sportsfest.glslaw.co.in\index.htm
+Content Type: text/html
+
+Uri: http://sportsfest.glslaw.co.in/images/tj/TJF_2754_min.jpg
+File Name: c:\Downloaded Web Sites\sportsfest.glslaw.co.in\images\tj\TJF_2754_min.jpg
+Content Type: image/jpeg
+
+Uri: http://sportsfest.glslaw.co.in/images/bg_2.jpg
+File Name: c:\Downloaded Web Sites\sportsfest.glslaw.co.in\images\bg_2.jpg
+Content Type: image/jpeg
+
+Uri: http://sportsfest.glslaw.co.in/images/tj/TJF_1170.jpg
+File Name: c:\Downloaded Web Sites\sportsfest.glslaw.co.in\images\tj\TJF_1170.jpg
+Content Type: image/jpeg
+
+Uri: http://sportsfest.glslaw.co.in/img/team/bg_team.jpg
+File Name: c:\Downloaded Web Sites\sportsfest.glslaw.co.in\img\team\bg_team.jpg
+Content Type: image/jpeg
+
+Uri: http://sportsfest.glslaw.co.in/img/team/kajal.PNG
+File Name: c:\Downloaded Web Sites\sportsfest.glslaw.co.in\img\team\kajal.PNG
+Content Type: image/png
+
+Uri: http://sportsfest.glslaw.co.in/img/team/punit.jpg
+File Name: c:\Downloaded Web Sites\sportsfest.glslaw.co.in\img\team\punit.jpg
+Content Type: image/jpeg
+
+Uri: http://sportsfest.glslaw.co.in/img/team/prashant.jpg
+File Name: c:\Downloaded Web Sites\sportsfest.glslaw.co.in\img\team\prashant.jpg
+Content Type: image/jpeg
+
+Uri: http://sportsfest.glslaw.co.in/img/team/ishita.png
+File Name: c:\Downloaded Web Sites\sportsfest.glslaw.co.in\img\team\ishita.png
+Content Type: image/png
+
+Uri: http://sportsfest.glslaw.co.in/img/team/aditya.jpg
+File Name: c:\Downloaded Web Sites\sportsfest.glslaw.co.in\img\team\aditya.jpg
+Content Type: image/jpeg
+
+Uri: http://sportsfest.glslaw.co.in/img/team/abhishek.jpg
+File Name: c:\Downloaded Web Sites\sportsfest.glslaw.co.in\img\team\abhishek.jpg
+Content Type: image/jpeg
+
+Uri: http://sportsfest.glslaw.co.in/img/team/bhumit.jpg
+File Name: c:\Downloaded Web Sites\sportsfest.glslaw.co.in\img\team\bhumit.jpg
+Content Type: image/jpeg
+
+Uri: http://sportsfest.glslaw.co.in/img/team/dhimahi.jpg
+File Name: c:\Downloaded Web Sites\sportsfest.glslaw.co.in\img\team\dhimahi.jpg
+Content Type: image/jpeg
+
+Uri: http://sportsfest.glslaw.co.in/img/team/madhav.jpg
+File Name: c:\Downloaded Web Sites\sportsfest.glslaw.co.in\img\team\madhav.jpg
+Content Type: image/jpeg
+
+Uri: http://sportsfest.glslaw.co.in/img/team/dhruv.jpg
+File Name: c:\Downloaded Web Sites\sportsfest.glslaw.co.in\img\team\dhruv.jpg
+Content Type: image/jpeg
+
+Uri: http://sportsfest.glslaw.co.in/img/team/karan.jpg
+File Name: c:\Downloaded Web Sites\sportsfest.glslaw.co.in\img\team\karan.jpg
+Content Type: image/jpeg
+
+Uri: http://sportsfest.glslaw.co.in/images/counter-bg.jpg
+File Name: c:\Downloaded Web Sites\sportsfest.glslaw.co.in\images\counter-bg.jpg
+Content Type: image/jpeg
+
+Uri: http://sportsfest.glslaw.co.in/css/open-iconic-bootstrap.min.css
+File Name: c:\Downloaded Web Sites\sportsfest.glslaw.co.in\css\open-iconic-bootstrap.min.css
+Content Type: text/css
+
+Uri: http://sportsfest.glslaw.co.in/css/animate.css
+File Name: c:\Downloaded Web Sites\sportsfest.glslaw.co.in\css\animate.css
+Content Type: text/css
+
+Uri: http://sportsfest.glslaw.co.in/css/owl.carousel.min.css
+File Name: c:\Downloaded Web Sites\sportsfest.glslaw.co.in\css\owl.carousel.min.css
+Content Type: text/css
+
+Uri: http://sportsfest.glslaw.co.in/css/owl.theme.default.min.css
+File Name: c:\Downloaded Web Sites\sportsfest.glslaw.co.in\css\owl.theme.default.min.css
+Content Type: text/css
+
+Uri: http://sportsfest.glslaw.co.in/css/magnific-popup.css
+File Name: c:\Downloaded Web Sites\sportsfest.glslaw.co.in\css\magnific-popup.css
+Content Type: text/css
+
+Uri: http://sportsfest.glslaw.co.in/css/aos.css
+File Name: c:\Downloaded Web Sites\sportsfest.glslaw.co.in\css\aos.css
+Content Type: text/css
+
+Uri: http://sportsfest.glslaw.co.in/css/ionicons.min.css
+File Name: c:\Downloaded Web Sites\sportsfest.glslaw.co.in\css\ionicons.min.css
+Content Type: text/css
+
+Uri: http://sportsfest.glslaw.co.in/css/bootstrap-datepicker.css
+File Name: c:\Downloaded Web Sites\sportsfest.glslaw.co.in\css\bootstrap-datepicker.css
+Content Type: text/css
+
+Uri: http://sportsfest.glslaw.co.in/css/jquery.timepicker.css
+File Name: c:\Downloaded Web Sites\sportsfest.glslaw.co.in\css\jquery.timepicker.css
+Content Type: text/css
+
+Uri: http://sportsfest.glslaw.co.in/css/flaticon.css
+File Name: c:\Downloaded Web Sites\sportsfest.glslaw.co.in\css\flaticon.css
+Content Type: text/css
+
+Uri: http://sportsfest.glslaw.co.in/css/icomoon.css
+File Name: c:\Downloaded Web Sites\sportsfest.glslaw.co.in\css\icomoon.css
+Content Type: text/css
+
+Uri: http://sportsfest.glslaw.co.in/css/style.css
+File Name: c:\Downloaded Web Sites\sportsfest.glslaw.co.in\css\style.css
+Content Type: text/css
+
+Uri: http://sportsfest.glslaw.co.in/about.php
+File Name: c:\Downloaded Web Sites\sportsfest.glslaw.co.in\about.html
+Content Type: text/html
+
+Uri: http://sportsfest.glslaw.co.in/gallery.php
+File Name: c:\Downloaded Web Sites\sportsfest.glslaw.co.in\gallery.html
+Content Type: text/html
+
+Uri: http://sportsfest.glslaw.co.in/contact.php
+File Name: c:\Downloaded Web Sites\sportsfest.glslaw.co.in\contact.html
+Content Type: text/html
+
+Uri: http://sportsfest.glslaw.co.in/login.php
+File Name: c:\Downloaded Web Sites\sportsfest.glslaw.co.in\login.html
+Content Type: text/html
+
+Uri: http://sportsfest.glslaw.co.in/register.php
+File Name: c:\Downloaded Web Sites\sportsfest.glslaw.co.in\register.html
+Content Type: text/html
+
+Uri: http://sportsfest.glslaw.co.in/images/tj1.png
+File Name: c:\Downloaded Web Sites\sportsfest.glslaw.co.in\images\tj1.png
+Content Type: image/png
+
+Uri: http://sportsfest.glslaw.co.in/images/Media_Gallery/2019_20/athletics/6.jpg
+File Name: c:\Downloaded Web Sites\sportsfest.glslaw.co.in\images\Media_Gallery\2019_20\athletics\6.jpg
+Content Type: image/jpeg
+
+Uri: http://sportsfest.glslaw.co.in/images/Media_Gallery/2019_20/athletics/3.jpg
+File Name: c:\Downloaded Web Sites\sportsfest.glslaw.co.in\images\Media_Gallery\2019_20\athletics\3.jpg
+Content Type: image/jpeg
+
+Uri: http://sportsfest.glslaw.co.in/images/Media_Gallery/2019_20/badminton/2.jpg
+File Name: c:\Downloaded Web Sites\sportsfest.glslaw.co.in\images\Media_Gallery\2019_20\badminton\2.jpg
+Content Type: image/jpeg
+
+Uri: http://sportsfest.glslaw.co.in/images/Media_Gallery/2019_20/badminton/4.jpg
+File Name: c:\Downloaded Web Sites\sportsfest.glslaw.co.in\images\Media_Gallery\2019_20\badminton\4.jpg
+Content Type: image/jpeg
+
+Uri: http://sportsfest.glslaw.co.in/images/Media_Gallery/2019_20/basketball/4.jpg
+File Name: c:\Downloaded Web Sites\sportsfest.glslaw.co.in\images\Media_Gallery\2019_20\basketball\4.jpg
+Content Type: image/jpeg
+
+Uri: http://sportsfest.glslaw.co.in/images/Media_Gallery/2019_20/carrom/2.jpg
+File Name: c:\Downloaded Web Sites\sportsfest.glslaw.co.in\images\Media_Gallery\2019_20\carrom\2.jpg
+Content Type: image/jpeg
+
+Uri: http://sportsfest.glslaw.co.in/js/jquery.min.js
+File Name: c:\Downloaded Web Sites\sportsfest.glslaw.co.in\js\jquery.min.js
+Content Type: application/javascript
+
+Uri: http://sportsfest.glslaw.co.in/js/jquery-migrate-3.0.1.min.js
+File Name: c:\Downloaded Web Sites\sportsfest.glslaw.co.in\js\jquery-migrate-3.0.1.min.js
+Content Type: application/javascript
+
+Uri: http://sportsfest.glslaw.co.in/js/popper.min.js
+File Name: c:\Downloaded Web Sites\sportsfest.glslaw.co.in\js\popper.min.js
+Content Type: application/javascript
+
+Uri: http://sportsfest.glslaw.co.in/js/bootstrap.min.js
+File Name: c:\Downloaded Web Sites\sportsfest.glslaw.co.in\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: http://sportsfest.glslaw.co.in/js/jquery.easing.1.3.js
+File Name: c:\Downloaded Web Sites\sportsfest.glslaw.co.in\js\jquery.easing.1.3.js
+Content Type: application/javascript
+
+Uri: http://sportsfest.glslaw.co.in/js/jquery.waypoints.min.js
+File Name: c:\Downloaded Web Sites\sportsfest.glslaw.co.in\js\jquery.waypoints.min.js
+Content Type: application/javascript
+
+Uri: http://sportsfest.glslaw.co.in/js/jquery.stellar.min.js
+File Name: c:\Downloaded Web Sites\sportsfest.glslaw.co.in\js\jquery.stellar.min.js
+Content Type: application/javascript
+
+Uri: http://sportsfest.glslaw.co.in/js/owl.carousel.min.js
+File Name: c:\Downloaded Web Sites\sportsfest.glslaw.co.in\js\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: http://sportsfest.glslaw.co.in/js/jquery.magnific-popup.min.js
+File Name: c:\Downloaded Web Sites\sportsfest.glslaw.co.in\js\jquery.magnific-popup.min.js
+Content Type: application/javascript
+
+Uri: http://sportsfest.glslaw.co.in/js/aos.js
+File Name: c:\Downloaded Web Sites\sportsfest.glslaw.co.in\js\aos.js
+Content Type: application/javascript
+
+Uri: http://sportsfest.glslaw.co.in/js/jquery.animateNumber.min.js
+File Name: c:\Downloaded Web Sites\sportsfest.glslaw.co.in\js\jquery.animateNumber.min.js
+Content Type: application/javascript
+
+Uri: http://sportsfest.glslaw.co.in/js/bootstrap-datepicker.js
+File Name: c:\Downloaded Web Sites\sportsfest.glslaw.co.in\js\bootstrap-datepicker.js
+Content Type: application/javascript
+
+Uri: http://sportsfest.glslaw.co.in/js/scrollax.min.js
+File Name: c:\Downloaded Web Sites\sportsfest.glslaw.co.in\js\scrollax.min.js
+Content Type: application/javascript
+
+Uri: http://sportsfest.glslaw.co.in/js/google-map.js
+File Name: c:\Downloaded Web Sites\sportsfest.glslaw.co.in\js\google-map.js
+Content Type: application/javascript
+
+Uri: http://sportsfest.glslaw.co.in/js/main.js
+File Name: c:\Downloaded Web Sites\sportsfest.glslaw.co.in\js\main.js
+Content Type: application/javascript
+
+Uri: http://sportsfest.glslaw.co.in/fonts/open-iconic/open-iconic.eot
+File Name: c:\Downloaded Web Sites\sportsfest.glslaw.co.in\fonts\open-iconic\open-iconic.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://sportsfest.glslaw.co.in/fonts/open-iconic/open-iconic.eot?
+File Name: c:\Downloaded Web Sites\sportsfest.glslaw.co.in\fonts\open-iconic\open-iconic-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://sportsfest.glslaw.co.in/fonts/open-iconic/open-iconic.woff
+File Name: c:\Downloaded Web Sites\sportsfest.glslaw.co.in\fonts\open-iconic\open-iconic.woff
+Content Type: font/woff
+
+Uri: http://sportsfest.glslaw.co.in/fonts/open-iconic/open-iconic.ttf
+File Name: c:\Downloaded Web Sites\sportsfest.glslaw.co.in\fonts\open-iconic\open-iconic.ttf
+Content Type: font/ttf
+
+Uri: http://sportsfest.glslaw.co.in/fonts/open-iconic/open-iconic.otf
+File Name: c:\Downloaded Web Sites\sportsfest.glslaw.co.in\fonts\open-iconic\open-iconic.otf
+Content Type: font/otf
+
+Uri: http://sportsfest.glslaw.co.in/fonts/open-iconic/open-iconic.svg
+File Name: c:\Downloaded Web Sites\sportsfest.glslaw.co.in\fonts\open-iconic\open-iconic.svg
+Content Type: image/svg+xml
+
+Uri: http://sportsfest.glslaw.co.in/fonts/ionicons/fonts/ionicons.eot?v=4.0.0-19
+File Name: c:\Downloaded Web Sites\sportsfest.glslaw.co.in\fonts\ionicons\fonts\ionicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://sportsfest.glslaw.co.in/fonts/ionicons/fonts/ionicons.woff2?v=4.0.0-19
+File Name: c:\Downloaded Web Sites\sportsfest.glslaw.co.in\fonts\ionicons\fonts\ionicons.woff2
+Content Type: font/woff2
+
+Uri: http://sportsfest.glslaw.co.in/fonts/ionicons/fonts/ionicons.woff?v=4.0.0-19
+File Name: c:\Downloaded Web Sites\sportsfest.glslaw.co.in\fonts\ionicons\fonts\ionicons.woff
+Content Type: font/woff
+
+Uri: http://sportsfest.glslaw.co.in/fonts/ionicons/fonts/ionicons.ttf?v=4.0.0-19
+File Name: c:\Downloaded Web Sites\sportsfest.glslaw.co.in\fonts\ionicons\fonts\ionicons.ttf
+Content Type: font/ttf
+
+Uri: http://sportsfest.glslaw.co.in/fonts/ionicons/fonts/ionicons.svg?v=4.0.0-19
+File Name: c:\Downloaded Web Sites\sportsfest.glslaw.co.in\fonts\ionicons\fonts\ionicons.svg
+Content Type: image/svg+xml
+
+Uri: http://sportsfest.glslaw.co.in/fonts/flaticon/font/Flaticon.eot
+File Name: c:\Downloaded Web Sites\sportsfest.glslaw.co.in\fonts\flaticon\font\Flaticon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://sportsfest.glslaw.co.in/fonts/flaticon/font/Flaticon.eot?
+File Name: c:\Downloaded Web Sites\sportsfest.glslaw.co.in\fonts\flaticon\font\Flaticon-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://sportsfest.glslaw.co.in/fonts/flaticon/font/Flaticon.woff
+File Name: c:\Downloaded Web Sites\sportsfest.glslaw.co.in\fonts\flaticon\font\Flaticon.woff
+Content Type: font/woff
+
+Uri: http://sportsfest.glslaw.co.in/fonts/flaticon/font/Flaticon.ttf
+File Name: c:\Downloaded Web Sites\sportsfest.glslaw.co.in\fonts\flaticon\font\Flaticon.ttf
+Content Type: font/ttf
+
+Uri: http://sportsfest.glslaw.co.in/fonts/flaticon/font/Flaticon.svg
+File Name: c:\Downloaded Web Sites\sportsfest.glslaw.co.in\fonts\flaticon\font\Flaticon.svg
+Content Type: image/svg+xml
+
+Uri: http://sportsfest.glslaw.co.in/fonts/icomoon/icomoon.eot?6tt51o
+File Name: c:\Downloaded Web Sites\sportsfest.glslaw.co.in\fonts\icomoon\icomoon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://sportsfest.glslaw.co.in/fonts/icomoon/icomoon.ttf?6tt51o
+File Name: c:\Downloaded Web Sites\sportsfest.glslaw.co.in\fonts\icomoon\icomoon.ttf
+Content Type: font/ttf
+
+Uri: http://sportsfest.glslaw.co.in/fonts/icomoon/icomoon.woff?6tt51o
+File Name: c:\Downloaded Web Sites\sportsfest.glslaw.co.in\fonts\icomoon\icomoon.woff
+Content Type: font/woff
+
+Uri: http://sportsfest.glslaw.co.in/fonts/icomoon/icomoon.svg?6tt51o
+File Name: c:\Downloaded Web Sites\sportsfest.glslaw.co.in\fonts\icomoon\icomoon.svg
+Content Type: image/svg+xml
+
+Uri: http://sportsfest.glslaw.co.in/images/bg-heading-02.jpg
+File Name: c:\Downloaded Web Sites\sportsfest.glslaw.co.in\images\bg-heading-02.jpg
+Content Type: image/jpeg
+
+Uri: http://sportsfest.glslaw.co.in/images/tj/TJF_2051_min.jpg
+File Name: c:\Downloaded Web Sites\sportsfest.glslaw.co.in\images\tj\TJF_2051_min.jpg
+Content Type: image/jpeg
+
+Uri: http://sportsfest.glslaw.co.in/images/tj/TJF_1170_min.jpg
+File Name: c:\Downloaded Web Sites\sportsfest.glslaw.co.in\images\tj\TJF_1170_min.jpg
+Content Type: image/jpeg
+
+Uri: http://sportsfest.glslaw.co.in/images/tj/GLS_0143_min.jpg
+File Name: c:\Downloaded Web Sites\sportsfest.glslaw.co.in\images\tj\GLS_0143_min.jpg
+Content Type: image/jpeg
+
+Uri: http://sportsfest.glslaw.co.in/css/lightbox.css
+File Name: c:\Downloaded Web Sites\sportsfest.glslaw.co.in\css\lightbox.css
+Content Type: text/css
+
+Uri: http://sportsfest.glslaw.co.in/images/Media_Gallery/2019_20/athletics/1.jpg
+File Name: c:\Downloaded Web Sites\sportsfest.glslaw.co.in\images\Media_Gallery\2019_20\athletics\1.jpg
+Content Type: image/jpeg
+
+Uri: http://sportsfest.glslaw.co.in/images/Media_Gallery/2019_20/athletics/2.jpg
+File Name: c:\Downloaded Web Sites\sportsfest.glslaw.co.in\images\Media_Gallery\2019_20\athletics\2.jpg
+Content Type: image/jpeg
+
+Uri: http://sportsfest.glslaw.co.in/images/Media_Gallery/2019_20/athletics/4.jpg
+File Name: c:\Downloaded Web Sites\sportsfest.glslaw.co.in\images\Media_Gallery\2019_20\athletics\4.jpg
+Content Type: image/jpeg
+
+Uri: http://sportsfest.glslaw.co.in/images/Media_Gallery/2019_20/athletics/5.jpg
+File Name: c:\Downloaded Web Sites\sportsfest.glslaw.co.in\images\Media_Gallery\2019_20\athletics\5.jpg
+Content Type: image/jpeg
+
+Uri: http://sportsfest.glslaw.co.in/images/Media_Gallery/2019_20/badminton/1.jpg
+File Name: c:\Downloaded Web Sites\sportsfest.glslaw.co.in\images\Media_Gallery\2019_20\badminton\1.jpg
+Content Type: image/jpeg
+
+Uri: http://sportsfest.glslaw.co.in/images/Media_Gallery/2019_20/badminton/3.jpg
+File Name: c:\Downloaded Web Sites\sportsfest.glslaw.co.in\images\Media_Gallery\2019_20\badminton\3.jpg
+Content Type: image/jpeg
+
+Uri: http://sportsfest.glslaw.co.in/images/Media_Gallery/2019_20/basketball/1.jpg
+File Name: c:\Downloaded Web Sites\sportsfest.glslaw.co.in\images\Media_Gallery\2019_20\basketball\1.jpg
+Content Type: image/jpeg
+
+Uri: http://sportsfest.glslaw.co.in/images/Media_Gallery/2019_20/basketball/2.jpg
+File Name: c:\Downloaded Web Sites\sportsfest.glslaw.co.in\images\Media_Gallery\2019_20\basketball\2.jpg
+Content Type: image/jpeg
+
+Uri: http://sportsfest.glslaw.co.in/images/Media_Gallery/2019_20/basketball/3.jpg
+File Name: c:\Downloaded Web Sites\sportsfest.glslaw.co.in\images\Media_Gallery\2019_20\basketball\3.jpg
+Content Type: image/jpeg
+
+Uri: http://sportsfest.glslaw.co.in/images/Media_Gallery/2019_20/carrom/1.jpg
+File Name: c:\Downloaded Web Sites\sportsfest.glslaw.co.in\images\Media_Gallery\2019_20\carrom\1.jpg
+Content Type: image/jpeg
+
+Uri: http://sportsfest.glslaw.co.in/images/Media_Gallery/2019_20/football/1.jpg
+File Name: c:\Downloaded Web Sites\sportsfest.glslaw.co.in\images\Media_Gallery\2019_20\football\1.jpg
+Content Type: image/jpeg
+
+Uri: http://sportsfest.glslaw.co.in/images/Media_Gallery/2019_20/football/2.jpg
+File Name: c:\Downloaded Web Sites\sportsfest.glslaw.co.in\images\Media_Gallery\2019_20\football\2.jpg
+Content Type: image/jpeg
+
+Uri: http://sportsfest.glslaw.co.in/images/Media_Gallery/2019_20/football/3.jpg
+File Name: c:\Downloaded Web Sites\sportsfest.glslaw.co.in\images\Media_Gallery\2019_20\football\3.jpg
+Content Type: image/jpeg
+
+Uri: http://sportsfest.glslaw.co.in/images/Media_Gallery/2019_20/football/4.jpg
+File Name: c:\Downloaded Web Sites\sportsfest.glslaw.co.in\images\Media_Gallery\2019_20\football\4.jpg
+Content Type: image/jpeg
+
+Uri: http://sportsfest.glslaw.co.in/images/Media_Gallery/2019_20/kabbadi/1.jpg
+File Name: c:\Downloaded Web Sites\sportsfest.glslaw.co.in\images\Media_Gallery\2019_20\kabbadi\1.jpg
+Content Type: image/jpeg
+
+Uri: http://sportsfest.glslaw.co.in/images/Media_Gallery/2019_20/kabbadi/2.jpg
+File Name: c:\Downloaded Web Sites\sportsfest.glslaw.co.in\images\Media_Gallery\2019_20\kabbadi\2.jpg
+Content Type: image/jpeg
+
+Uri: http://sportsfest.glslaw.co.in/images/Media_Gallery/2019_20/volleyball/1.jpg
+File Name: c:\Downloaded Web Sites\sportsfest.glslaw.co.in\images\Media_Gallery\2019_20\volleyball\1.jpg
+Content Type: image/jpeg
+
+Uri: http://sportsfest.glslaw.co.in/images/Media_Gallery/2019_20/volleyball/2.jpg
+File Name: c:\Downloaded Web Sites\sportsfest.glslaw.co.in\images\Media_Gallery\2019_20\volleyball\2.jpg
+Content Type: image/jpeg
+
+Uri: http://sportsfest.glslaw.co.in/images/Media_Gallery/2019_20/volleyball/3.jpg
+File Name: c:\Downloaded Web Sites\sportsfest.glslaw.co.in\images\Media_Gallery\2019_20\volleyball\3.jpg
+Content Type: image/jpeg
+
+Uri: http://sportsfest.glslaw.co.in/images/Media_Gallery/2019_20/volleyball/4.jpg
+File Name: c:\Downloaded Web Sites\sportsfest.glslaw.co.in\images\Media_Gallery\2019_20\volleyball\4.jpg
+Content Type: image/jpeg
+
+Uri: http://sportsfest.glslaw.co.in/images/Media_Gallery/2019_20/closing/1.jpg
+File Name: c:\Downloaded Web Sites\sportsfest.glslaw.co.in\images\Media_Gallery\2019_20\closing\1.jpg
+Content Type: image/jpeg
+
+Uri: http://sportsfest.glslaw.co.in/images/Media_Gallery/2019_20/closing/2.jpg
+File Name: c:\Downloaded Web Sites\sportsfest.glslaw.co.in\images\Media_Gallery\2019_20\closing\2.jpg
+Content Type: image/jpeg
+
+Uri: http://sportsfest.glslaw.co.in/images/Media_Gallery/2019_20/closing/3.jpg
+File Name: c:\Downloaded Web Sites\sportsfest.glslaw.co.in\images\Media_Gallery\2019_20\closing\3.jpg
+Content Type: image/jpeg
+
+Uri: http://sportsfest.glslaw.co.in/images/Media_Gallery/2019_20/closing/4.jpg
+File Name: c:\Downloaded Web Sites\sportsfest.glslaw.co.in\images\Media_Gallery\2019_20\closing\4.jpg
+Content Type: image/jpeg
+
+Uri: http://sportsfest.glslaw.co.in/images/Media_Gallery/2019_20/closing/5.jpg
+File Name: c:\Downloaded Web Sites\sportsfest.glslaw.co.in\images\Media_Gallery\2019_20\closing\5.jpg
+Content Type: image/jpeg
+
+Uri: http://sportsfest.glslaw.co.in/images/Media_Gallery/2019_20/closing/6.jpg
+File Name: c:\Downloaded Web Sites\sportsfest.glslaw.co.in\images\Media_Gallery\2019_20\closing\6.jpg
+Content Type: image/jpeg
+
+Uri: http://sportsfest.glslaw.co.in/images/Media_Gallery/2019_20/closing/7.jpg
+File Name: c:\Downloaded Web Sites\sportsfest.glslaw.co.in\images\Media_Gallery\2019_20\closing\7.jpg
+Content Type: image/jpeg
+
+Uri: http://sportsfest.glslaw.co.in/js/lightbox.js
+File Name: c:\Downloaded Web Sites\sportsfest.glslaw.co.in\js\lightbox.js
+Content Type: application/javascript
+
+Uri: http://sportsfest.glslaw.co.in/js/lightbox-plus-jquery.min.js
+File Name: c:\Downloaded Web Sites\sportsfest.glslaw.co.in\js\lightbox-plus-jquery.min.js
+Content Type: application/javascript
+
+Uri: http://sportsfest.glslaw.co.in/css/bootstrap.min.css
+File Name: c:\Downloaded Web Sites\sportsfest.glslaw.co.in\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: http://sportsfest.glslaw.co.in/images/close.png
+File Name: c:\Downloaded Web Sites\sportsfest.glslaw.co.in\images\close.png
+Content Type: image/png
+
