@@ -10381,8 +10381,8 @@ input {
 
     .photogallerySubinner a {
         float: left;
-        width: 172px;
-        height: 120px;
+        /* width: 172px;
+        height: 120px; */
         /* width: 240px;
         height: 180px; */
         margin: 0 10px 5px 0;
